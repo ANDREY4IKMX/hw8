@@ -1,0 +1,430 @@
+.text-h1 {
+    font-family: Graphik LC TT;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 70px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.header_container--link {
+    font-family: Graphik LC TT;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.accelerate_container--title {
+    font-family: Graphik LC TT;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 70px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.accelerate_container--text {
+    font-family: Graphik LC TT;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.accelerate_container--buttonst--bt1{
+    font-family: Graphik LC TT;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.accelerate_container--buttonst--bt2{
+    font-family: Graphik LC TT;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.accelerate_container-info{
+    font-family: Graphik LC TT;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.companies_container--title{
+    font-family: Graphik LC TT;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.companies_container--colaboration{
+    background-color: #FF9C7D;
+}
+.info_container--content--title1{
+    font-family: Graphik LC TT;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.info_container--content--text1{
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.info_container--content--text span{
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.info_container--content--link1{
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.info_container--gif1{
+    width: 632px;
+    height: 632px;
+    left: 658px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.info_container--gif2{
+    width: 632px;
+    height: 632px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.info_container-in-content--title2{
+    font-family: Graphik LC TT;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.info_container--content--text2{
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.info_container--content--link2{
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.localize_container--content--title{
+    font-family: Graphik LC TT;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.loc_img{
+    width: 160px;
+    height: 120px;
+    top: 21px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.localize_container--content--name{
+    font-family: Graphik LC TT;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.localize_container--content--text{
+    font-family: Graphik LC TT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.localize_container--content--img1{
+    width: 160px;
+    height: 120px;
+    top: 21px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.localize_container--content--name{
+    font-family: Graphik LC TT;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.localize_container--content--text{
+    font-family: Graphik LC TT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.localize_container--content--img2{
+    width: 160px;
+    height: 120px;
+    top: 21px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.localize_container--content--img3{
+    width: 160px;
+    height: 120px;
+    top: 21px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.localize_container--content--img4{
+    width: 160px;
+    height: 120px;
+    top: 21px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.localize_container--content--img5{
+    width: 160px;
+    height: 120px;
+    top: 21px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.localize_link{
+    font-family: Graphik LC TT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.productivity_title{
+    font-family: Graphik LC TT;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.productivity_container--content--title{
+    font-family: Graphik LC TT;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.productivity_container--content--text{
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.productivity_container--content--link{
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.productivity_container--link{
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.revolut_container--text{
+    font-family: Graphik LC TT;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.revolut_container--name{
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.cake_text{
+    font-family: Graphik LC TT;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 50px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.integrate_title{
+    font-family: Graphik LC TT;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 75px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.integrate_button--bt1{
+    font-family: Graphik LC TT;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.lokalisation_title{
+    font-family: Graphik LC TT;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 75px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.lokalisation_text{
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.lokalisation_button--bt1{
+    font-family: Graphik LC TT;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.case_container--title{
+    font-family: Graphik LC TT;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 50px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.case_container--text{
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.smth_title{
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.smth_container--links{
+    font-family: Graphik LC TT;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.end_text{
+    font-family: Graphik LC TT;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.end_right{
+    font-family: Graphik LC TT;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
